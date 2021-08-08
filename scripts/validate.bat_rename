@@ -1,0 +1,2 @@
+java -jar ../target/sudoku-validate-1.0.jar %1
+echo Exit Code : %ERRORLEVEL%
